@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diffs</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>Uma </string>
+			<key>ModifiedRange</key>
+			<string>{4, 4}</string>
+			<key>OriginalContent</key>
+			<string>/*#-lo</string>
+			<key>OriginalRange</key>
+			<string>{4, 6}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>i</string>
+			<key>ModifiedRange</key>
+			<string>{10, 1}</string>
+			<key>OriginalContent</key>
+			<string>lizable-zone(spritePlayground1)*/A sandbo</string>
+			<key>OriginalRange</key>
+			<string>{12, 41}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>a de are</string>
+			<key>ModifiedRange</key>
+			<string>{12, 8}</string>
+			<key>OriginalContent</key>
+			<string> to play with shape sprites in a physics world./*#-end-local</string>
+			<key>OriginalRange</key>
+			<string>{54, 60}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>a para </string>
+			<key>ModifiedRange</key>
+			<string>{21, 7}</string>
+			<key>OriginalContent</key>
+			<string>za</string>
+			<key>OriginalRange</key>
+			<string>{115, 2}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>rincar com sprites de formas em um mundo físico.</string>
+			<key>ModifiedRange</key>
+			<string>{29, 48}</string>
+			<key>OriginalContent</key>
+			<string>le-zone*/</string>
+			<key>OriginalRange</key>
+			<string>{118, 9}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>C</string>
+			<key>ModifiedRange</key>
+			<string>{141, 1}</string>
+			<key>OriginalContent</key>
+			<string>/*#-localizable-zone(spriteSetup)*/Sets up the scene f</string>
+			<key>OriginalRange</key>
+			<string>{191, 54}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>nf</string>
+			<key>ModifiedRange</key>
+			<string>{143, 2}</string>
+			<key>OriginalContent</key>
+			<string>r phys</string>
+			<key>OriginalRange</key>
+			<string>{246, 6}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>gura a </string>
+			<key>ModifiedRange</key>
+			<string>{146, 7}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{253, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>ena para fí</string>
+			<key>ModifiedRange</key>
+			<string>{154, 11}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{254, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>ica</string>
+			<key>ModifiedRange</key>
+			<string>{166, 3}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{255, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{170, 0}</string>
+			<key>OriginalContent</key>
+			<string>/*#-end-localizable-zone*/</string>
+			<key>OriginalRange</key>
+			<string>{256, 26}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>C</string>
+			<key>ModifiedRange</key>
+			<string>{343, 1}</string>
+			<key>OriginalContent</key>
+			<string>/*#-localizable-z</string>
+			<key>OriginalRange</key>
+			<string>{455, 17}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>f</string>
+			<key>ModifiedRange</key>
+			<string>{346, 1}</string>
+			<key>OriginalContent</key>
+			<string>e(spr</string>
+			<key>OriginalRange</key>
+			<string>{474, 5}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{348, 0}</string>
+			<key>OriginalContent</key>
+			<string>tePlay</string>
+			<key>OriginalRange</key>
+			<string>{480, 6}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>u</string>
+			<key>ModifiedRange</key>
+			<string>{349, 1}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{487, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>a a cai</string>
+			<key>ModifiedRange</key>
+			<string>{351, 7}</string>
+			<key>OriginalContent</key>
+			<string>ound2)*/Sets up the sandbo</string>
+			<key>OriginalRange</key>
+			<string>{488, 26}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>a </string>
+			<key>ModifiedRange</key>
+			<string>{359, 2}</string>
+			<key>OriginalContent</key>
+			<string>./*#-en</string>
+			<key>OriginalRange</key>
+			<string>{515, 7}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>e </string>
+			<key>ModifiedRange</key>
+			<string>{362, 2}</string>
+			<key>OriginalContent</key>
+			<string>-loc</string>
+			<key>OriginalRange</key>
+			<string>{523, 4}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>re</string>
+			<key>ModifiedRange</key>
+			<string>{365, 2}</string>
+			<key>OriginalContent</key>
+			<string>l</string>
+			<key>OriginalRange</key>
+			<string>{528, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{368, 0}</string>
+			<key>OriginalContent</key>
+			<string>z</string>
+			<key>OriginalRange</key>
+			<string>{530, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>.</string>
+			<key>ModifiedRange</key>
+			<string>{369, 1}</string>
+			<key>OriginalContent</key>
+			<string>ble-zone*/</string>
+			<key>OriginalRange</key>
+			<string>{532, 10}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{1810, 0}</string>
+			<key>OriginalContent</key>
+			<string>/*#-localizable-zone(spritePlayground4)*/</string>
+			<key>OriginalRange</key>
+			<string>{1982, 41}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>i</string>
+			<key>ModifiedRange</key>
+			<string>{1812, 1}</string>
+			<key>OriginalContent</key>
+			<string>eates a me</string>
+			<key>OriginalRange</key>
+			<string>{2025, 10}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string> </string>
+			<key>ModifiedRange</key>
+			<string>{1814, 1}</string>
+			<key>OriginalContent</key>
+			<string>s</string>
+			<key>OriginalRange</key>
+			<string>{2036, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{1816, 0}</string>
+			<key>OriginalContent</key>
+			<string>re</string>
+			<key>OriginalRange</key>
+			<string>{2038, 2}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>a</string>
+			<key>ModifiedRange</key>
+			<string>{1817, 1}</string>
+			<key>OriginalContent</key>
+			<string>ent</string>
+			<key>OriginalRange</key>
+			<string>{2041, 3}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>ha de medição</string>
+			<key>ModifiedRange</key>
+			<string>{1822, 13}</string>
+			<key>OriginalContent</key>
+			<string>e</string>
+			<key>OriginalRange</key>
+			<string>{2048, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>a</string>
+			<key>ModifiedRange</key>
+			<string>{1839, 1}</string>
+			<key>OriginalContent</key>
+			<string>e</string>
+			<key>OriginalRange</key>
+			<string>{2053, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>o para ver o quão al</string>
+			<key>ModifiedRange</key>
+			<string>{1841, 20}</string>
+			<key>OriginalContent</key>
+			<string> </string>
+			<key>OriginalRange</key>
+			<string>{2055, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>você con</string>
+			<key>ModifiedRange</key>
+			<string>{1864, 8}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{2059, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{1874, 0}</string>
+			<key>OriginalContent</key>
+			<string>e how hi</string>
+			<key>OriginalRange</key>
+			<string>{2061, 8}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>ue empil</string>
+			<key>ModifiedRange</key>
+			<string>{1875, 8}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{2070, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>ar</string>
+			<key>ModifiedRange</key>
+			<string>{1884, 2}</string>
+			<key>OriginalContent</key>
+			<string> you can stack</string>
+			<key>OriginalRange</key>
+			<string>{2071, 14}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{1895, 0}</string>
+			<key>OriginalContent</key>
+			<string>/*#-end-localizable-zone*/</string>
+			<key>OriginalRange</key>
+			<string>{2094, 26}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>C</string>
+			<key>ModifiedRange</key>
+			<string>{2634, 1}</string>
+			<key>OriginalContent</key>
+			<string>/*#-localizable-zone(sp</string>
+			<key>OriginalRange</key>
+			<string>{2859, 23}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{2637, 0}</string>
+			<key>OriginalContent</key>
+			<string>tePl</string>
+			<key>OriginalRange</key>
+			<string>{2884, 4}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string> </string>
+			<key>ModifiedRange</key>
+			<string>{2638, 1}</string>
+			<key>OriginalContent</key>
+			<string>ygro</string>
+			<key>OriginalRange</key>
+			<string>{2889, 4}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>m</string>
+			<key>ModifiedRange</key>
+			<string>{2640, 1}</string>
+			<key>OriginalContent</key>
+			<string>nd5)*/Creates a r</string>
+			<key>OriginalRange</key>
+			<string>{2894, 17}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string> f</string>
+			<key>ModifiedRange</key>
+			<string>{2642, 2}</string>
+			<key>OriginalContent</key>
+			<string>nd</string>
+			<key>OriginalRange</key>
+			<string>{2912, 2}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{2645, 0}</string>
+			<key>OriginalContent</key>
+			<string>m sp</string>
+			<key>OriginalRange</key>
+			<string>{2915, 4}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>ma</string>
+			<key>ModifiedRange</key>
+			<string>{2646, 2}</string>
+			<key>OriginalContent</key>
+			<string>ite</string>
+			<key>OriginalRange</key>
+			<string>{2920, 3}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{2649, 0}</string>
+			<key>OriginalContent</key>
+			<string>shape./*#-en</string>
+			<key>OriginalRange</key>
+			<string>{2924, 12}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>e spr</string>
+			<key>ModifiedRange</key>
+			<string>{2650, 5}</string>
+			<key>OriginalContent</key>
+			<string>-local</string>
+			<key>OriginalRange</key>
+			<string>{2937, 6}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>te </string>
+			<key>ModifiedRange</key>
+			<string>{2656, 3}</string>
+			<key>OriginalContent</key>
+			<string>z</string>
+			<key>OriginalRange</key>
+			<string>{2944, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{2660, 0}</string>
+			<key>OriginalContent</key>
+			<string>b</string>
+			<key>OriginalRange</key>
+			<string>{2946, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>atória.</string>
+			<key>ModifiedRange</key>
+			<string>{2662, 7}</string>
+			<key>OriginalContent</key>
+			<string>-zone*/</string>
+			<key>OriginalRange</key>
+			<string>{2949, 7}</string>
+		</dict>
+	</array>
+	<key>FormatVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

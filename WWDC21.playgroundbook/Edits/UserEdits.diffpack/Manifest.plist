@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BaseContentIdentifier</key>
+	<string>com.apple.playgrounds.Shapes</string>
+	<key>BaseContentVersion</key>
+	<string>5.0.0</string>
+	<key>ContentType</key>
+	<string>PlaygroundBookUserEdit</string>
+	<key>Diffs</key>
+	<dict>
+		<key>Chapters/Document1.playgroundchapter/Pages/E21434BE-2CA4-4B39-AE8F-5A687743A620.playgroundpage/UserManifest.plist</key>
+		<string>Added</string>
+		<key>Chapters/Document1.playgroundchapter/Pages/E21434BE-2CA4-4B39-AE8F-5A687743A620.playgroundpage/main.swift</key>
+		<string>Modified</string>
+		<key>Chapters/Document1.playgroundchapter/UserManifest.plist</key>
+		<string>Added</string>
+		<key>UserModules/MyFiles.playgroundmodule/Sources/ColorPicker.swift</key>
+		<string>Modified</string>
+		<key>UserModules/MyFiles.playgroundmodule/Sources/Drawing.swift</key>
+		<string>Modified</string>
+		<key>UserModules/MyFiles.playgroundmodule/Sources/SetUpLiveView.swift</key>
+		<string>Modified</string>
+		<key>UserModules/MyFiles.playgroundmodule/Sources/ShapeExtras.swift</key>
+		<string>Modified</string>
+		<key>UserModules/MyFiles.playgroundmodule/Sources/SpritePlayground.swift</key>
+		<string>Modified</string>
+		<key>UserModules/MyFiles.playgroundmodule/Sources/StringExtension.swift</key>
+		<string>Modified</string>
+		<key>UserModules/MyFiles.playgroundmodule/Sources/ThicknessPicker.swift</key>
+		<string>Modified</string>
+	</dict>
+	<key>FormatVersion</key>
+	<integer>2</integer>
+	<key>UpdatedContentVersion</key>
+	<string>5.0.0</string>
+</dict>
+</plist>

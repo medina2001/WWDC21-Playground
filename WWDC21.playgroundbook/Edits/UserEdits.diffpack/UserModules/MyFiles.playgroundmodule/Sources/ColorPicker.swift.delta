@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diffs</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>Um se</string>
+			<key>ModifiedRange</key>
+			<string>{35, 5}</string>
+			<key>OriginalContent</key>
+			<string>/*#-</string>
+			<key>OriginalRange</key>
+			<string>{35, 4}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>et</string>
+			<key>ModifiedRange</key>
+			<string>{41, 2}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{40, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>r de </string>
+			<key>ModifiedRange</key>
+			<string>{44, 5}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{41, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>ores person</string>
+			<key>ModifiedRange</key>
+			<string>{50, 11}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{42, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>do usado para selecionar a cor do pincel na </string>
+			<key>ModifiedRange</key>
+			<string>{66, 44}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{47, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>arra </string>
+			<key>ModifiedRange</key>
+			<string>{111, 5}</string>
+			<key>OriginalContent</key>
+			<string>le-zone(colorPicker1)*/A custom color picker use</string>
+			<key>OriginalRange</key>
+			<string>{48, 48}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{117, 0}</string>
+			<key>OriginalContent</key>
+			<string> to select th</string>
+			<key>OriginalRange</key>
+			<string>{97, 13}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{118, 0}</string>
+			<key>OriginalContent</key>
+			<string> color</string>
+			<key>OriginalRange</key>
+			<string>{111, 6}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{119, 0}</string>
+			<key>OriginalContent</key>
+			<string>o</string>
+			<key>OriginalRange</key>
+			<string>{118, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>erramentas de desen</string>
+			<key>ModifiedRange</key>
+			<string>{120, 19}</string>
+			<key>OriginalContent</key>
+			<string> the brush in t</string>
+			<key>OriginalRange</key>
+			<string>{120, 15}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>o</string>
+			<key>ModifiedRange</key>
+			<string>{140, 1}</string>
+			<key>OriginalContent</key>
+			<string>e drawing toolbar</string>
+			<key>OriginalRange</key>
+			<string>{136, 17}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{142, 0}</string>
+			<key>OriginalContent</key>
+			<string>/*#-end-localizable-zone*/</string>
+			<key>OriginalRange</key>
+			<string>{154, 26}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>Um </string>
+			<key>ModifiedRange</key>
+			<string>{272, 3}</string>
+			<key>OriginalContent</key>
+			<string>/*#-localizable-zone(colorPi</string>
+			<key>OriginalRange</key>
+			<string>{310, 28}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>o</string>
+			<key>ModifiedRange</key>
+			<string>{276, 1}</string>
+			<key>OriginalContent</key>
+			<string>ker2)*/A</string>
+			<key>OriginalRange</key>
+			<string>{339, 8}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>trolador de</string>
+			<key>ModifiedRange</key>
+			<string>{278, 11}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{348, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{293, 0}</string>
+			<key>OriginalContent</key>
+			<string>nt handler called whe</string>
+			<key>OriginalRange</key>
+			<string>{352, 21}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>tos chamado ao</string>
+			<key>ModifiedRange</key>
+			<string>{294, 14}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{374, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{314, 0}</string>
+			<key>OriginalContent</key>
+			<string>t</string>
+			<key>OriginalRange</key>
+			<string>{380, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>o</string>
+			<key>ModifiedRange</key>
+			<string>{315, 1}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{382, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>ar</string>
+			<key>ModifiedRange</key>
+			<string>{317, 2}</string>
+			<key>OriginalContent</key>
+			<string>g</string>
+			<key>OriginalRange</key>
+			<string>{383, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>um</string>
+			<key>ModifiedRange</key>
+			<string>{320, 2}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{385, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{326, 0}</string>
+			<key>OriginalContent</key>
+			<string>lo</string>
+			<key>OriginalRange</key>
+			<string>{389, 2}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{328, 0}</string>
+			<key>OriginalContent</key>
+			<string>/*#-end-localizable-zone*/</string>
+			<key>OriginalRange</key>
+			<string>{393, 26}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>O í</string>
+			<key>ModifiedRange</key>
+			<string>{403, 3}</string>
+			<key>OriginalContent</key>
+			<string>/*#-lo</string>
+			<key>OriginalRange</key>
+			<string>{494, 6}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{407, 0}</string>
+			<key>OriginalContent</key>
+			<string>alizable-z</string>
+			<key>OriginalRange</key>
+			<string>{501, 10}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string> d</string>
+			<key>ModifiedRange</key>
+			<string>{410, 2}</string>
+			<key>OriginalContent</key>
+			<string>(c</string>
+			<key>OriginalRange</key>
+			<string>{514, 2}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string> se</string>
+			<key>ModifiedRange</key>
+			<string>{413, 3}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{517, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>e</string>
+			<key>ModifiedRange</key>
+			<string>{417, 1}</string>
+			<key>OriginalContent</key>
+			<string>orPicker3)*/The </string>
+			<key>OriginalRange</key>
+			<string>{518, 16}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>r de c</string>
+			<key>ModifiedRange</key>
+			<string>{420, 6}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{536, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>res para a </string>
+			<key>ModifiedRange</key>
+			<string>{427, 11}</string>
+			<key>OriginalContent</key>
+			<string>l</string>
+			<key>OriginalRange</key>
+			<string>{537, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>ra</string>
+			<key>ModifiedRange</key>
+			<string>{441, 2}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{541, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>de</string>
+			<key>ModifiedRange</key>
+			<string>{444, 2}</string>
+			<key>OriginalContent</key>
+			<string>icon</string>
+			<key>OriginalRange</key>
+			<string>{542, 4}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>erramen</string>
+			<key>ModifiedRange</key>
+			<string>{448, 7}</string>
+			<key>OriginalContent</key>
+			<string>or </string>
+			<key>OriginalRange</key>
+			<string>{548, 3}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>as</string>
+			<key>ModifiedRange</key>
+			<string>{456, 2}</string>
+			<key>OriginalContent</key>
+			<string>he color picker</string>
+			<key>OriginalRange</key>
+			<string>{552, 15}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{459, 0}</string>
+			<key>OriginalContent</key>
+			<string>/*#-end-localizable-zone*/</string>
+			<key>OriginalRange</key>
+			<string>{568, 26}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{607, 0}</string>
+			<key>OriginalContent</key>
+			<string>/*#-localizable-zone(colorPicker4)*/</string>
+			<key>OriginalRange</key>
+			<string>{742, 36}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string> todos os</string>
+			<key>ModifiedRange</key>
+			<string>{613, 9}</string>
+			<key>OriginalContent</key>
+			<string>s all</string>
+			<key>OriginalRange</key>
+			<string>{784, 5}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>áf</string>
+			<key>ModifiedRange</key>
+			<string>{625, 2}</string>
+			<key>OriginalContent</key>
+			<string>aph</string>
+			<key>OriginalRange</key>
+			<string>{792, 3}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>o</string>
+			<key>ModifiedRange</key>
+			<string>{629, 1}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{797, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{639, 0}</string>
+			<key>OriginalContent</key>
+			<string>te</string>
+			<key>OriginalRange</key>
+			<string>{806, 2}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>os ao sele</string>
+			<key>ModifiedRange</key>
+			<string>{640, 10}</string>
+			<key>OriginalContent</key>
+			<string> with </string>
+			<key>OriginalRange</key>
+			<string>{809, 6}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>or de cores</string>
+			<key>ModifiedRange</key>
+			<string>{651, 11}</string>
+			<key>OriginalContent</key>
+			<string>he color picker</string>
+			<key>OriginalRange</key>
+			<string>{816, 15}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{663, 0}</string>
+			<key>OriginalContent</key>
+			<string>/*#-end-localizable-zone*/</string>
+			<key>OriginalRange</key>
+			<string>{832, 26}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{825, 0}</string>
+			<key>OriginalContent</key>
+			<string>/*#-localizable-zone(colorPicker6)*/</string>
+			<key>OriginalRange</key>
+			<string>{1020, 36}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>e</string>
+			<key>ModifiedRange</key>
+			<string>{826, 1}</string>
+			<key>OriginalContent</key>
+			<string>raw</string>
+			<key>OriginalRange</key>
+			<string>{1057, 3}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>e</string>
+			<key>ModifiedRange</key>
+			<string>{828, 1}</string>
+			<key>OriginalContent</key>
+			<string> a</string>
+			<key>OriginalRange</key>
+			<string>{1061, 2}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{830, 0}</string>
+			<key>OriginalContent</key>
+			<string>d sets up t</string>
+			<key>OriginalRange</key>
+			<string>{1064, 11}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>a </string>
+			<key>ModifiedRange</key>
+			<string>{831, 2}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1076, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>nfigura o se</string>
+			<key>ModifiedRange</key>
+			<string>{837, 12}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1080, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>et</string>
+			<key>ModifiedRange</key>
+			<string>{850, 2}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1081, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>de </string>
+			<key>ModifiedRange</key>
+			<string>{855, 3}</string>
+			<key>OriginalContent</key>
+			<string>pi</string>
+			<key>OriginalRange</key>
+			<string>{1084, 2}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>or</string>
+			<key>ModifiedRange</key>
+			<string>{859, 2}</string>
+			<key>OriginalContent</key>
+			<string>k</string>
+			<key>OriginalRange</key>
+			<string>{1087, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>s</string>
+			<key>ModifiedRange</key>
+			<string>{862, 1}</string>
+			<key>OriginalContent</key>
+			<string>r</string>
+			<key>OriginalRange</key>
+			<string>{1089, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{864, 0}</string>
+			<key>OriginalContent</key>
+			<string>/*#-end-localizable-zone*/</string>
+			<key>OriginalRange</key>
+			<string>{1091, 26}</string>
+		</dict>
+	</array>
+	<key>FormatVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
