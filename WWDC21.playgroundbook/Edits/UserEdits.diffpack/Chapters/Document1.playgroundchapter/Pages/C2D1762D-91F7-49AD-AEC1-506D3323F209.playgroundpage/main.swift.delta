@@ -108,79 +108,22 @@
 		</dict>
 		<dict>
 			<key>ModifiedContent</key>
-			<string>import PlaygroundSupport
-import SpriteKit
+			<string>scene.backgroundColor = #colorLiteral(red: 0.3018117249, green: 0.1339289844, blue: 0.7035960555, alpha: 1.0)
 
-var cont = 0
-scene.backgroundColor = #colorLiteral(red: 0.0, green: 0.6385222077, blue: 0.8448928595, alpha: 1.0)
-
-let label = Label(text: "Hello, I'm Gabriel", color: #colorLiteral(red: 0.9994556308, green: 0.9863594174, blue: 0.2532016337, alpha: 1.0), size: 30)
-scene.place(label, at: Point(x: 0, y: 300))
-
-let label2 = Label(text: "Music is one of my greatest passions", color: #colorLiteral(red: 0.9994556308, green: 0.9863594174, blue: 0.2532016337, alpha: 1.0), size: 30)
-scene.place(label2, at: Point(x: 800, y: 300))
-
-let label3 = Label(text: "and as a guitarist,", color: #colorLiteral(red: 0.9994556308, green: 0.9863594174, blue: 0.2532016337, alpha: 1.0), size: 30)
-scene.place(label3, at: Point(x: 800, y: 300))
-
-let label4 = Label(text: "I love not only to hear music, but to create as well", color: #colorLiteral(red: 0.9994556308, green: 0.9863594174, blue: 0.2532016337, alpha: 1.0), size: 30)
-scene.place(label4, at: Point(x: 800, y: 250))
-
-let label5 = Label(text: "One of the things I enjoy the most ", color: #colorLiteral(red: 0.9994556308, green: 0.9863594174, blue: 0.2532016337, alpha: 1.0), size: 30)
-scene.place(label5, at: Point(x: 800, y: 300))
-
-let label6 = Label(text: "about playing music are guitar pedals", color: #colorLiteral(red: 0.9994556308, green: 0.9863594174, blue: 0.2532016337, alpha: 1.0), size: 30)
-scene.place(label6, at: Point(x: 800, y: 250))
-
-let label7 = Label(text: "Let's experience what guitar pedals can do!", color: #colorLiteral(red: 0.9994556308, green: 0.9863594174, blue: 0.2532016337, alpha: 1.0), size: 30)
-scene.place(label7, at: Point(x: 800, y: 300))
-
-let guitarist = Graphic(image: #imageLiteral(resourceName: "Medina Guitarrista.png"))
-guitarist.scale = 0.3
-scene.place(guitarist, at: Point(x: 0, y: -75))
-
-let nextButton = Graphic(image: #imageLiteral(resourceName: "Seta.png"))
-nextButton.scale = 0.2
-scene.place(nextButton, at: Point(x: 225, y: -425))
-
-let moveText = SKAction.moveBy(x: -800, y: 0, duration: 1.5)
-nextButton.setHandler(for: .touch){ _ in
-    switch cont {
-    case 0:
-        label.run(moveText)
-        label2.run(moveText)
-        case 1:
-            label2.run(moveText)
-            label3.run(moveText)
-            label4.run(moveText)
-            case 2:
-                label3.run(moveText)
-                label4.run(moveText)
-                label5.run(moveText)
-                label6.run(moveText)
-                case 3:
-                    label5.run(moveText)
-                    label6.run(moveText)
-                    label7.run(moveText)
-                    case 4:
-                        PlaygroundPage.current.navigateTo(page: .next)
-    default:
-        break
-    }
-    cont += 1
-}
+let pedal = Graphic(image: #imageLiteral(resourceName: "Pedal 1.png"))
+pedal.scale = 0.4
+scene.place(pedal, at: Point(x: 0, y: 0))
 </string>
 			<key>ModifiedRange</key>
-			<string>{6769, 2734}</string>
+			<string>{6770, 242}</string>
 			<key>OriginalContent</key>
-			<string>
-// /*#-localizable-zone(shapesTemplate2)*/Creates a circle graphic./*#-end-localizable-zone*/
+			<string>// /*#-localizable-zone(shapesTemplate2)*/Creates a circle graphic./*#-end-localizable-zone*/
 let circle = Graphic.circle(radius: 100, color: #colorLiteral(red: 0.4550631046, green: 0.6557807326, blue: 0.9979295135, alpha: 1.0))
 scene.place(circle, at: Point.zero)
 circle.isDraggable = true
 </string>
 			<key>OriginalRange</key>
-			<string>{6816, 292}</string>
+			<string>{6817, 291}</string>
 		</dict>
 	</array>
 	<key>FormatVersion</key>
