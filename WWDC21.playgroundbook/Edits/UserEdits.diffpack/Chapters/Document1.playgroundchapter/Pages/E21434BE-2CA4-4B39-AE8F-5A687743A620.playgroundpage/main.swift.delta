@@ -50,11 +50,11 @@ let label7 = Graphic(image: #imageLiteral(resourceName: "label7.png"))
 label7.scale = 0.9
 scene.place(label7, at: Point(x: 1000, y: 300))
 
-let guitarist = Graphic(image: #imageLiteral(resourceName: "Medina Guitarrista.png"))
+let guitarist = Graphic(image: #imageLiteral(resourceName: "MedinaGuitarrista.png"))
 guitarist.scale = 0.35
 scene.place(guitarist, at: Point(x: 0, y: -75))
 
-let nextButton = Graphic(image: #imageLiteral(resourceName: "Seta.png"))
+let nextButton = Graphic(image: #imageLiteral(resourceName: "SetaF.png"))
 nextButton.scale = 0.2
 scene.place(nextButton, at: Point(x: 225, y: -425))
 
