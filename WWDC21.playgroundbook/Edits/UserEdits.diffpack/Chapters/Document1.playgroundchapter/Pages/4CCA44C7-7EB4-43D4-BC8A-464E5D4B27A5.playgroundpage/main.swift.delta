@@ -112,7 +112,7 @@
 
 scene.backgroundColor = #colorLiteral(red: 0.3018117249, green: 0.1339289844, blue: 0.7035960555, alpha: 1.0)
 
-let pedal = Graphic(image: #imageLiteral(resourceName: "Pedal 1.png"))
+let pedal = Graphic(image: #imageLiteral(resourceName: "Pedal 3.png"))
 pedal.scale = 0.4
 scene.place(pedal, at: Point(x: 0, y: 0))
 
