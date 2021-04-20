@@ -70,12 +70,16 @@ nextButton.setHandler(for: .touch){ _ in
 
 //#-end-hidden-code
 /*:
- # Why is this so important?
+ # Welcome!
  
- Well, all of us, in a certain way, wish for the long-awaited financial independence, some of them yearn a lot for it and others not so much, the fact is that money is one of the central parts of our life and has great importance for both our present and our future. Through the journey of learning more about finances we come across several information that can lead us to a trap, and that's where financial education comes in. My country, Brazil, has a great difficulty in this type of education, which makes the average Brazilian, a people well uninformed in relation to the rest of the world when it comes to finances, that was another great motivational to choose this theme. I did some research and found some data that reflect a little of that reality.
+ ## Distortion Pedal
  
- Give it a play and check out an 'ambima' research comparing the population of several countries investing in variable income.
+ Today, I'm going to talk about guitar pedals and what difference do they make on music.
  
+ Guitar pedals are basically electronic devices that alters the sound of the guitar (and also other instruments). There are hundreds of different types of effects and unlimited combinations that you can do with them. They give music a totally different feeling, even being responsible for the creation of some musical styles.
  
+ But now let's try it!
+ 
+  > To navigate between the Playground pages use the green arrow and don't forget to turn on your audio.
  
  */

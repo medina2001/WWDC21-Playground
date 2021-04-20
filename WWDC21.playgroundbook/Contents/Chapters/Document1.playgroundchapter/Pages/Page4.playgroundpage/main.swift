@@ -1,3 +1,4 @@
+//#-hidden-code
 setUpLiveView()
 
 import PlaygroundSupport
@@ -39,3 +40,4 @@ scene.place(nextButton, at: Point(x: 225, y: -425))
 nextButton.setHandler(for: .touch){ _ in
     PlaygroundPage.current.navigateTo(page: .next)
 }
+//#-end-hidden-code
