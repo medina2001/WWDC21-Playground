@@ -71,6 +71,8 @@ nextButton.setHandler(for: .touch){ _ in
  
  This one is very different, also being controlled by the movement of the guitarist's foot, he changes between extremely high or low sounds, causing a "mixing" effect. It is widely used in styles such as Psychedelic Rock and Indie.
  
+  > Warning: Lower the volume of your device a little, this effect has a high volume!!
+ 
  > To hear the part of the song with the effect activated, just select the right button and to listen without effect, select the left button. Listen carefully to each separate audio to understand the effect that the pedal has on the sound of the guitar.
  
  */
