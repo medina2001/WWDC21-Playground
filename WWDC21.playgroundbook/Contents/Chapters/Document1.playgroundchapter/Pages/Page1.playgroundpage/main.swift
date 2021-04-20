@@ -72,7 +72,6 @@ nextButton.setHandler(for: .touch){ _ in
 /*:
  # Welcome!
  
- ## Distortion Pedal
  
  Today, I'm going to talk about guitar pedals and what difference do they make on music.
  

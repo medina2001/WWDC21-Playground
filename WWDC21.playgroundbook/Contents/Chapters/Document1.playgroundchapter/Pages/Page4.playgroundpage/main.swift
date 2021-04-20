@@ -41,3 +41,11 @@ nextButton.setHandler(for: .touch){ _ in
     PlaygroundPage.current.navigateTo(page: .next)
 }
 //#-end-hidden-code
+/*:
+ # Wah Pedal
+ 
+ Now, let's get to know our second pedal: The Wah Wah Pedal, known for imitating the sound of the human voice and being used in funk and rock music. Unlike most pedals, this is controlled by the movement of the guitarist's foot, rather than just being turned on or off.
+ 
+  > To hear the part of the song with the effect activated, just select the right button and to listen without effect, select the left button. Listen carefully to each separate audio to understand the effect that the pedal has on the sound of the guitar.
+ 
+ */

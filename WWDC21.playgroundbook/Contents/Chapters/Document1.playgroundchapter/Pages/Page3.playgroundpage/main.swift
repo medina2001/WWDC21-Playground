@@ -66,3 +66,11 @@ nextButton.setHandler(for: .touch){ _ in
     PlaygroundPage.current.navigateTo(page: .next)
 }
 //#-end-hidden-code
+/*:
+ # Pitch Shift Pedal
+ 
+ This one is very different, also being controlled by the movement of the guitarist's foot, he changes between extremely high or low sounds, causing a "mixing" effect. It is widely used in styles such as Psychedelic Rock and Indie.
+ 
+ > To hear the part of the song with the effect activated, just select the right button and to listen without effect, select the left button. Listen carefully to each separate audio to understand the effect that the pedal has on the sound of the guitar.
+ 
+ */

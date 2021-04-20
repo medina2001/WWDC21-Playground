@@ -68,9 +68,9 @@ nextButton.setHandler(for: .touch){ _ in
 
 //#-end-hidden-code
 /*:
- # Welcome to our studio
-
- Here we can try some of the best effect pedals !! First, let's get to know the most famous of all: The Distortion Pedal, well known for its use in genres such as Rock and Metal, it presents an aggressive and very noisy style !!
+ # Distortion Pedal
+ 
+ Welcome to our studio here we can try some of the best effect pedals !! First, let's get to know the most famous of all: The Distortion Pedal, well known for its use in genres such as Rock and Metal, it presents an aggressive and very noisy style !!
  
  > To hear the part of the song with the effect activated, just select the right button and to listen without effect, select the left button. Listen carefully to each separate audio to understand the effect that the pedal has on the sound of the guitar.
 */
