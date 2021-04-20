@@ -20,6 +20,10 @@
 				<key>File</key>
 				<string>Chapters/Document1.playgroundchapter/Pages/Page1.playgroundpage/UserManifest.plist</string>
 			</dict>
+			<dict>
+				<key>File</key>
+				<string>Chapters/Document1.playgroundchapter/Pages/Page4.playgroundpage/UserManifest.plist</string>
+			</dict>
 		</array>
 		<key>Modified</key>
 		<array>
@@ -64,6 +68,12 @@
 				<string>UserModules/MyFiles.playgroundmodule/Sources/StringExtension.swift.delta</string>
 				<key>File</key>
 				<string>UserModules/MyFiles.playgroundmodule/Sources/StringExtension.swift</string>
+			</dict>
+			<dict>
+				<key>Diff</key>
+				<string>Chapters/Document1.playgroundchapter/Pages/Page4.playgroundpage/main.swift.delta</string>
+				<key>File</key>
+				<string>Chapters/Document1.playgroundchapter/Pages/Page4.playgroundpage/main.swift</string>
 			</dict>
 		</array>
 		<key>Removed</key>
