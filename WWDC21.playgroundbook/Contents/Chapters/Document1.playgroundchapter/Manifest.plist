@@ -4,16 +4,15 @@
 <dict>
 	<key>Name</key>
 	<string>Name</string>
-	<key>TemplatePageFilename</key>
-	<string>template.playgroundpage</string>
 	<key>Version</key>
 	<string>1.0</string>
 	<key>InitialUserPages</key>
 	<array>
-		<string>shapegraphics.playgroundpage</string>
-		<string>animations.playgroundpage</string>
-		<string>sprites.playgroundpage</string>
-		<string>drawing.playgroundpage</string>
+		<string>Page1.playgroundpage</string>
+		<string>Page2.playgroundpage</string>
+		<string>Page3.playgroundpage</string>
+		<string>Page4.playgroundpage</string>
+		<string>Page5.playgroundpage</string>
 	</array>
 </dict>
 </plist>
